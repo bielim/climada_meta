@@ -1,0 +1,17 @@
+climada_meta.conf
+# IMPORTANT:
+#
+# 	keep this in sync with climada_meta_update.sh:${CLIMADA_REPOSITORIES}
+#
+climada
+climada_module_kml_toolbox 
+climada_module_GDP_entity
+climada_module_meteorites 
+climada_module_barisal_demo 
+climada_module_tc_hazard_advanced 
+climada_module_country_risk 
+climada_module_tc_rain 
+climada_module_eq_global 
+climada_module_tc_surge 
+climada_module_etopo 
+climada_module_ws_europe

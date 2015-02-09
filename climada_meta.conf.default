@@ -1,0 +1,17 @@
+## Example configuration for update_climada.sh
+##
+## Adjust to your needs and save the file as climada_meta.conf. The defaults
+## will create read-only checkouts of Climada and its submodules.
+
+## Base account on Github. Change this to your git repositories if you have 
+## created forks of climada and all submodules.
+##
+## Note that if you change CLIMADA_BASE, it is assumed that you operate on
+## forks for all submodules
+##
+## Example:
+##    CLIMADA_BASE="git@github.com:bielim"
+##
+#CLIMADA_BASE="https://github.com/davidnbresch"
+
+
