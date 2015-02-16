@@ -3,7 +3,7 @@ climada_meta.conf
 #
 # 	keep this in sync with climada_meta_update.sh:${CLIMADA_REPOSITORIES}
 #
-climada
+climada_modules
 climada_module_kml_toolbox 
 climada_module_GDP_entity
 climada_module_meteorites 
@@ -15,3 +15,4 @@ climada_module_eq_global
 climada_module_tc_surge 
 climada_module_etopo 
 climada_module_ws_europe
+climada_meta_core_update.sh
