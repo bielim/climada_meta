@@ -7,16 +7,15 @@ CLIMADA_BASE="https://github.com/davidnbresch"
 CLIMADA_META_CONFIG="./climada_meta.conf"
 CLIMADA_REPOSITORIES="climada
 		      climada_module_kml_toolbox 
-		      climada_module_GDP_entity
+		      climada_module_tropical_cyclone
 		      climada_module_meteorites 
 		      climada_module_barisal_demo 
-		      climada_module_tc_hazard_advanced 
-		      climada_module_country_risk 
-		      climada_module_tc_rain 
-		      climada_module_eq_global 
-		      climada_module_tc_surge 
-		      climada_module_etopo 
-		      climada_module_ws_europe"
+		      climada_module_flood 
+		      climada_module_earthquake_volcano 
+		      climada_module_drought_fire
+		      climada_module_storm_europe
+		      climada_module_salvador_demo
+		      climada_module_CAM"
 
 ########################
 ## Code below here
