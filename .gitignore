@@ -3,6 +3,7 @@ climada_meta.conf
 #
 # 	keep this in sync with climada_meta_update.sh:${CLIMADA_REPOSITORIES}
 #
+climada
 climada_modules
 climada_module_kml_toolbox 
 climada_module_tropical_cyclone
